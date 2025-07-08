@@ -1,0 +1,38 @@
+body{
+    background-color: lightgray;
+    font-family: 'Courier New', Courier, monospace;
+}
+header{
+    text-align:center;
+}
+h1,h2{
+    color:blue;
+    font-size:40px;
+}
+h1 {
+  font-size: 48px;
+}
+h2 {
+  font-size: 32px;
+}
+
+img{
+    width:150px;
+    height: 150px;
+    border-radius: 100%;
+    display:block;
+    margin:auto;
+}
+section {
+  padding: 50px;
+  margin: 0 auto;
+  max-width: 800px;
+  
+  background-color: white; 
+
+p, ul {
+  background-color: aqua;
+  padding: 20px;
+  line-height: 1.6;
+  border-radius: 10px;
+}
